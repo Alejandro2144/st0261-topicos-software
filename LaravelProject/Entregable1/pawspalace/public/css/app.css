@@ -1,0 +1,71 @@
+.bg-secondary {
+  background-color: #FECDA6 !important;
+}
+
+.copyright {
+  background-color: #FECDA6;
+  text-align: center;
+  font-size: 18px;
+}
+
+.bg-primary {
+  background-color: #FF9130 !important;
+}
+
+nav {
+  font-weight: 700;
+}
+
+.img-card {
+  height: 18vw;
+  object-fit: cover;
+}
+
+.card-title {
+  font-weight: bold;
+  color: #09090a;
+  text-align: left;
+}
+
+.card-header {
+  font-weight: bold;
+  background-color: #FF9130;
+  color: #09090a;
+  text-align: center;
+}
+
+.bold-label {
+  font-weight: bold;
+  color: #FF9130;
+}
+
+.btn-primary {
+  font-weight: bold;
+  background-color: #FF9130;
+  color: #09090a;
+  float: right;
+}
+
+.text-center {
+  font-size: 40px;
+}
+
+.navbar-brand {
+  color: #09090a;
+}
+
+.navbar-nav a.nav-link {
+  color: black !important;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.btn-danger {
+  float: left;
+}
